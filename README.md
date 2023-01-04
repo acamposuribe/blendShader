@@ -14,7 +14,7 @@ MixBox: https://github.com/scrtwpns/mixbox
 1) Link the .js files in your HTML file.
 
 ```
-<script src="./mixbox.js"></script>
+<script src="./mixbox-mod.js"></script>
 <script src="./blendShader.js"></script>
 ```
 
