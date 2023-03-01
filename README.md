@@ -9,7 +9,7 @@ MixBox: https://github.com/scrtwpns/mixbox
 
 # INSTALLATION:
 
-0) Download [mixbox.js](https://github.com/scrtwpns/mixbox/blob/master/javascript/mixbox.js) and modify the library by declaring the **lut** variable on top, and removing the **let** declaration in line 972. This will make the **lut** variable globally available.
+0) Download [mixbox.js](https://github.com/scrtwpns/mixbox/blob/master/javascript/mixbox.js) and modify the library by declaring the **lut** variable on top, and removing the **let** declaration in line 980. This will make the **lut** variable globally available.
 
 1) Link the .js files in your HTML file.
 
